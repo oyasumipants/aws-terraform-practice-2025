@@ -1,0 +1,9 @@
+database:
+  user: "bookshelf_w" 
+  password:
+  host: "localhost" 
+  port: "3306" 
+  name: "bookshelf" 
+
+server:
+  port: "8080" 

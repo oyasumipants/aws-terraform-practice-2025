@@ -1,0 +1,10 @@
+# Local Development Database configuration
+database:
+  user: "bookshelf_w"
+  password: "password"
+  host: "localhost"
+  port: "3306"
+  name: "bookshelf_db"
+
+server:
+  port: "8080" 
